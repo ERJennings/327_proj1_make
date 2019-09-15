@@ -2,5 +2,5 @@
 
 std::string myfunc()
 {
-	return "hello world";
+        return "hello";
 }
